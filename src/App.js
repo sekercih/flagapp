@@ -12,7 +12,7 @@ function App() {
       {/* <UseEffectFetchError /> */}
       {/* <UseEffectAxios/> */}
       {/* <UseEffectFetchTxt/> */}
-      <UseEffectFetch /> }
+      {<UseEffectFetch />}
     </div>
   );
 }
